@@ -36,7 +36,7 @@ const (
         INDEX = "around"
         TYPE = "post"
         DISTANCE = "200km"
-        ES_URL = "http://35.184.135.99:9200/"
+        ES_URL = "http://35.192.84.64:9200/"
         // Needs to update this bucket based on your gcs bucket name.
         BUCKET_NAME = "post-images-2065021"
         PROJECT_ID = "winged-record-206502"
